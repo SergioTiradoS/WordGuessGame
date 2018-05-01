@@ -1679,6 +1679,10 @@ var hangman = {
         var vDictionary = ["abided","aceric","acerval","acidly","acomia","acridid","adicea","adynamy","aegina","aerogen","afters","agnatic","agpaite","akebia","alated","albany","alfaqui","aliased","alicant","alicula","alimony","alinit","alkoxyl","allodia","allonge","almagra","aloins","alphyls","amatols","ambigu","amines","andrite","animato","anlases","antical","antihum","apehood","aphizog","approx","apritif","archeol","archons","ariadne","aryans","aseethe","assert","assize","attain","atumble","avenida","avogram","avulses","baboon","baboons","backing","ballata","bandgap","bangup","barbion","barlock","barming","barnage","basker","batara","bathyl","beadrow","beaker","becher","beckon","bedene","bedford","befame","beleve","bellite","benempt","berapt","bernard","bestuck","bethumb","bewreck","biding","bimana","bimong","bindery","binmen","biodyne","biteche","bizonal","blanque","blarney","blurter","bobwood","bogway","bolted","bonjour","booster","boregat","boreism","boskage","boxtops","bractea","bramia","brassie","brazil","breath","brevit","briard","bristle","brocard","brogued","buddhic","bufidin","bugger","bulbuls","bultong","bungee","bunions","burble","burgau","burgees","burghs","burton","buzuki","byward","bywoner","caches","cacimbo","cadbait","caitiff","calgon","calista","calotin","campine","campman","campody","canion","caproin","capsize","carles","carton","casebox","casper","cassoon","catchup","caudad","cavated","celsia","cephala","ceratin","certif","cervine","chaffed","chalaza","chalky","charvet","chattah","chaufer","chauvin","cherub","chiefer","chinky","chintz","choses","churly","cicadid","ciliate","cirrose","clachan","clayen","coaled","cochins","coeliac","cogger","cohort","coiffes","colmose","colove","comtian","conger","coning","conjure","cooner","coppra","coprose","corrump","cortine","corton","coster","courap","cowbind","cowgate","cowpats","coxier","crazes","crinel","crissal","critch","crocks","crowtoe","crumper","crunode","cubbyu","cucking","cuiejo","cummock","cunonia","cuprite","curaris","curiam","cushaws","cyclope","dairous","damager","damnit","damozel","daresay","debtors","decenyl","declass","defaces","defiled","degage","delilah","demidog","depair","deputed","derride","dertra","despeed","devilet","dewily","dewlap","diasyrm","dibbler","dickens","digenic","dihalo","dilemi","dinars","dinetic","diotic","dipnoid","dipsie","dismals","disowns","dispell","disship","divinyl","docile","docious","dodkin","doggery","dogtrot","dollars","dollops","doorway","dormant","dossier","dottles","doweled","dressed","dryers","dryops","duckpin","dudler","dumpoke","dustily","dyeing","dynodes","effendi","eggers","elative","elkhorn","embryon","emceing","emerick","encysts","enfaced","ensaint","ensurer","enzymic","epacme","epicure","epigone","epimyth","erected","escopet","escrod","escuela","ethenic","eutaxic","evomit","exalted","example","exiler","exiting","expends","exudate","exuviae","eyelet","faailk","fagelia","falbelo","falcula","fallout","fascili","fatwood","fayence","febrile","feretra","ferfet","ferrary","ferrets","ferrum","ficelle","figboy","figgle","filmish","fiscal","flavins","fliers","flosser","fluoric","fluster","flutist","flyleaf","fondak","forthy","fossae","fraunch","fregata","froisse","frokin","frouze","fungia","fustin","futural","gadids","gahnite","galcha","galenic","gallein","gallnut","gambler","gaudery","gaulsh","gemless","gemlike","genion","gentoo","gibsons","gigget","gitoxin","gittern","gleeful","gloater","globus","glomus","glummy","gnostic","gocart","gomavel","gosplan","grager","grantha","grapple","greeney","greenth","gridded","grocers","gruffer","guaque","guesses","guiser","gulash","gusted","gyrene","habits","hackery","hackly","hadean","hadjees","hairlet","hairof","haiver","halvas","harbors","haughty","haulers","haustus","heinie","helonin","henpen","hernias","heteric","hexacid","hillmen","hindoo","hiplike","hobbies","hodmen","hohokam","holiest","homoean","homonym","horreum","hostel","hounce","hubber","huchnom","hussies","icemen","iconize","ideata","ideated","illing","illness","impedes","impery","impious","implode","imposes","inculp","incused","indwelt","inflood","inhered","innyard","inspect","ionomer","isoptic","isoxime","israeli","jambeau","janders","jangler","jerrids","jerrie","jivaro","jnanas","jockey","jornada","juggles","jugums","jupati","jussel","kahunas","kammina","kareeta","kartos","kelping","kenotic","ketotic","kharia","khatin","kiltie","kindred","kinhin","kirtled","kirtles","knavery","knaves","konini","korero","krubuts","kuruma","lamany","lanific","lappets","larries","lather","lauroyl","laweour","leaper","leering","legifer","lemogra","lemures","lentile","levins","lexical","libbet","lichens","limital","listel","lobbies","looeys","lopers","lordlet","lounder","luciana","lurdane","lychnic","maculae","maduro","maguari","malays","malling","mallus","maneges","marques","marrys","martial","masonry","matlow","matweed","meatman","medusae","menfra","menial","meowing","mestino","mexitl","midnoon","milling","misseat","mitanni","mohalim","moisten","mollusk","moping","morate","morcha","morgens","morglay","morose","morrice","muesli","muezzin","munchy","munguba","muskie","musrol","mussed","mutches","mutule","muzzily","myrcia","myrrhis","naevus","naither","naives","natant","natrons","nayarit","neaped","necesse","negaton","neocene","nerver","nerves","nervily","nettled","nichts","nidget","nidify","nighter","noblify","nodders","nonacid","norroy","nosier","nuagism","nuclei","numbed","nutgall","nuzzled","oatland","oberon","obtains","odinism","offload","oilbird","okuari","oleates","omnify","ooplast","opelet","opposer","opsonin","orillon","orthic","orwell","osmolar","otarian","otidine","ouranos","outacts","outdrew","outface","outlast","outwove","ozonize","padlock","pakchoi","palatic","pallies","papize","parley","parotis","passen","patefy","pawkily","pealer","pehlevi","pelota","penible","perfix","perform","perjink","perlite","pewmate","phased","phellum","phiale","phillis","philome","phippe","piculet","pigsney","pilapil","pintail","piprine","pisces","pitmark","plaque","plasome","platch","playact","plumber","poisons","polynee","pomato","pomeys","pontify","portato","potager","pouches","prabhu","precool","premake","premune","presift","pretors","prologs","prosed","protyls","psiloi","psovie","puccini","pulahan","purlman","pusley","putlock","pythios","quarry","quartes","querele","rabbity","rablin","radium","raffee","ragging","raggles","raiidae","raising","random","rastus","ratfish","rattage","razzle","realise","rebate","rebred","rebulk","recency","reduces","reedily","reefers","reflair","reflex","regilds","relume","remoras","repacks","replane","rerate","resids","reslide","resshot","reswell","revive","rhexia","rhumbs","riddel","ridger","riggers","riling","ritzier","robinin","rochets","romaunt","rondels","ronion","rontgen","roomed","rosilla","rotund","rouens","rowland","rufous","ruinate","runouts","ruppia","safflow","salpid","saltish","sambuca","samechs","samogon","sanand","sandal","sauries","sausage","sayest","scards","scarph","scient","scolded","scrabe","scramb","screeno","scrying","scummer","scungy","scurfy","scutal","sealing","seaman","seamer","seatang","seawall","secondi","seedbox","seedman","seepier","sekhwan","serein","shamim","shanny","shikii","shinny","shippo","shippon","shoeman","shride","sibness","siccan","sinaite","sitars","siwens","sizzles","skatist","skeery","skunked","sladang","slammed","sloughs","slovak","snakes","snapped","snocker","songle","sorghum","soritic","sorted","soubise","spaller","sparger","spinets","spitish","splats","sponges","spoors","sprose","stadias","stalks","stamina","starred","stashes","statary","steamy","steeply","steeves","stenchy","stenos","sthene","stinks","stodge","stomper","stools","stoppel","stradl","stulls","subman","subnude","suborn","succubi","suldan","sulfide","superb","surculi","surras","sursize","susanne","sussex","swales","sweepup","sylvin","synagog","syphon","tailage","tainte","takhaar","talons","talukas","tampers","tangie","tanned","tapiro","tardily","tarman","tarras","tarsal","taryard","tauric","taximan","teather","teller","telopea","tempter","tenail","tenpins","tenzon","teopan","tetched","tetryls","thighed","thripel","thulir","thworl","tictocs","tiffing","tightly","tinlike","tinsels","tisanes","tissued","tituli","tofore","toggles","toluate","toluole","tongan","toolsi","tootsy","torched","torcher","tortue","toters","towner","toxins","trachle","tragion","trashed","travels","travois","treadle","trehala","treron","triace","triage","trilite","trucker","trustee","turnel","tutenag","tuyeres","twelves","tychism","ulster","umbered","unakite","unbench","unbusk","unchain","uncoyly","uncrate","unfixes","ungain","ungrip","unhuman","unlaced","unline","unmerge","unoped","unrigs","unsewn","unsheer","unspilt","unsting","unsure","untawed","unthaw","unweal","upband","uppoint","uprist","upriver","uredial","vacated","vacuums","vassar","vaulter","vejovis","velary","venues","venular","versine","versus","vesper","violas","virions","visaing","viseing","vivres","voyages","wairing","wanghee","washen","wedged","weenong","weever","wheeped","whipray","whomps","wingle","winkles","winoes","witter","witting","woaded","wooding","woodlet","woofell","woollen","wriggle","wrongdo","wurset","yantras","yarura","yeoman","yessed","zanjon","zitzith"];
         var vNewWord = vDictionary[Math.floor(Math.random() * vDictionary.length)];
         this.vCurrentWord = vNewWord;
+        this.vPassedArray = [];
+        this.vCorrectArray = [];
+        this.vErrors = 0;
+        console.log(this.vCurrentWord);
         for (var i=0; i<this.vCurrentWord.length; i++){
             this.vCorrectArray[i]= "0";
         };
@@ -1691,8 +1695,8 @@ var hangman = {
         this.getNewWord();
         this.showWordProgress(pWordSpace,this.vCorrectArray);
         this.showPassedLetters(pPassedLettersSpace,this.vPassedArray);
-        this.showWinSpace(pWinSpace,0);
-        this.showLoseSpace(pLoseSpace,0);
+        this.showWinSpace(pWinSpace,this.vWins, false);
+        this.showLoseSpace(pLoseSpace,this.vLoses, false);
     },
 
     //Reset the new game
@@ -1701,8 +1705,9 @@ var hangman = {
         this.getNewWord();
         this.showWordProgress(pWordSpace,this.vCorrectArray);
         this.showPassedLetters(pPassedLettersSpace,this.vPassedArray);
-        this.showWinSpace(pWinSpace,this.vWins);
-        this.showLoseSpace(pLoseSpace,this.vLoses++);
+        this.showWinSpace(pWinSpace,this.vWins, false);
+        this.vLoses++;
+        this.showLoseSpace(pLoseSpace,this.vLoses, true);
     },
 
 
@@ -1739,8 +1744,8 @@ var hangman = {
     },
 
     //Show the winning space
-    showWinSpace: function(pObject, pWins) {
-        if(pWins>0){
+    showWinSpace: function(pObject, pWins, pSound) {
+        if(pSound){
             var audio = document.createElement('audio');
             audio.src = 'assets/sounds/winner.mp3'
             audio.play();
@@ -1752,8 +1757,8 @@ var hangman = {
     },
 
     //Show the Loses space
-    showLoseSpace: function(pObject, pLoses) {
-        if(pLoses>0){
+    showLoseSpace: function(pObject, pLoses, pSound) {
+        if(pSound){
             var audio = document.createElement('audio');
             audio.src = 'assets/sounds/loser.mp3'
             audio.play();
@@ -1774,6 +1779,18 @@ var hangman = {
         return vIsLetter;
     },
 
+    //Function that validates if key pressed is an Alphabet letter.
+    isLetterPassed: function(pKeyPressedValue) {
+        vIsPassed = true;
+        for(var i=0; i<this.vPassedArray.length; i++){
+            if(this.vPassedArray[i][0]==pKeyPressedValue){
+                vIsPassed = false;
+                i=this.vPassedArray.length;
+            }
+        }
+        return vIsPassed;
+    },
+
     //Function that validates if the word is complete
     isWordCompleted: function(pWordArray) {
         var vIsComplete= true;
@@ -1788,70 +1805,78 @@ var hangman = {
 
     //Show the word progress
     checkKeyPressed: function(pKeyPressed, pHangManSpace, pWordSpace, pPassedLettersSpace, pWinSpcae, pLoseSpace) {
-        this.vTempArray=[];
+        if(this.isLetterPassed(pKeyPressed)){
+            this.vTempArray=[];
         
-        if((typeof(pKeyPressed) != 'undefined' && pKeyPressed != null)){
-            if(this.isKeyPressedALetter(pKeyPressed)){
-              //check if the letter is in the current word
-                if(this.vCurrentWord.indexOf(pKeyPressed)>=0){
-                    for(var i=0; i<this.vCurrentWord.length; i++){
-                        if (this.vCurrentWord[i]==pKeyPressed){
-                        //if Pressed Key Value is in the Current Word, the temporal array 
-                        //get every position of the letter and save the passed letter as green
-                            this.vTempArray.push(i);
-                            
+            if((typeof(pKeyPressed) != 'undefined' && pKeyPressed != null)){
+                if(this.isKeyPressedALetter(pKeyPressed)){
+                  //check if the letter is in the current word
+                    if(this.vCurrentWord.indexOf(pKeyPressed)>=0){
+                        for(var i=0; i<this.vCurrentWord.length; i++){
+                            if (this.vCurrentWord[i]==pKeyPressed){
+                            //if Pressed Key Value is in the Current Word, the temporal array 
+                            //get every position of the letter and save the passed letter as green
+                                this.vTempArray.push(i);
+                                
+                            }
+                        }
+                        this.vPassedArray.push(pKeyPressed + "|b");
+                    }else{
+                        //if Pressed Key Value is NOT in the Current Word, the letter and save 
+                        //the passed letter as red
+                        this.vPassedArray.push(pKeyPressed + "|r");
+                        this.vErrors++;                      
+                    }
+    
+                    //if the pressed key is correct then activate the letter in de Correct array
+                    if(this.vTempArray.length>0){
+                        for(var j = 0; j<this.vTempArray.length; j++){
+                            this.vCorrectArray[this.vTempArray[j]]=this.vCurrentWord[this.vTempArray[j]];
                         }
                     }
-                    this.vPassedArray.push(pKeyPressed + "|b");
-                }else{
-                    //if Pressed Key Value is NOT in the Current Word, the letter and save 
-                    //the passed letter as red
-                    this.vPassedArray.push(pKeyPressed + "|r");
-                    this.vErrors++;                      
-                }
-
-                //if the pressed key is correct then activate the letter in de Correct array
-                if(this.vTempArray.length>0){
-                    for(var j = 0; j<this.vTempArray.length; j++){
-                        this.vCorrectArray[this.vTempArray[j]]=this.vCurrentWord[this.vTempArray[j]];
+    
+                    //Draw the hangman
+                    this.showHangmanDrawing(pHangManSpace,this.vErrors);
+    
+                    //Draw the Word Progress
+                    this.showWordProgress(pWordSpace, this.vCorrectArray);
+    
+                    //Draw the Passed Letters
+                    this.showPassedLetters(pPassedLettersSpace, this.vPassedArray);
+    
+                    //Draw the Win space
+                    if (this.isWordCompleted(this.vCorrectArray)){
+                        this.vWins++;
+                        this.showWinSpace(pWinSpcae, this.vWins, true);
+                    }else if (this.vErrors==14){
+                        //Draw the lose
+                        this.vLoses++;
+                        this.showLoseSpace(pLoseSpace, this.vLoses, true);
                     }
                 }
-
-                //Draw the hangman
-                this.showHangmanDrawing(pHangManSpace,this.vErrors);
-
-                //Draw the Word Progress
-                this.showWordProgress(pWordSpace, this.vCorrectArray);
-
-                //Draw the Passed Letters
-                this.showPassedLetters(pPassedLettersSpace, this.vPassedArray);
-
-                //Draw the Win space
-                if (this.isWordCompleted(this.vCorrectArray)){
-                    this.vWins++;
-                    this.showWinSpace(pWinSpcae, this.vWins);
-                }else if (this.vErrors==14){
-                    //Draw the lose
-                    this.vLoses++;
-                    this.showLoseSpace(pLoseSpace, this.vLoses);
-                }
-                
-                
-
-
+            }else{
+            console.log("Some variables are nor define!.");
             }
-        }else{
-        console.log("Some variables are nor define!.");
+    
         }
         
     },
 
 };
 
-//hangman.showHangmanDrawing("HangmanDraw",0); "WordProgress"
-//var vTest = ["s|b","e|b","r|r","g|r","i|b","o|r"];
-//hangman.showPassedLetters("PassedLetters",vTest);
+
 hangman.setNewGame("HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
 document.onkeyup = function(event) {
-    hangman.checkKeyPressed(event.key,"HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
-  };
+    if(hangman.vErrors<14 && !hangman.isWordCompleted(hangman.vCorrectArray)){
+        if(event.key==" "){
+            hangman.resetGame("HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
+        }else {
+            hangman.checkKeyPressed(event.key,"HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
+        };    
+    }else{
+        hangman.setNewGame("HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
+    };
+
+
+
+};
