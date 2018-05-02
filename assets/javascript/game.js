@@ -1869,7 +1869,7 @@ hangman.setNewGame("HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "L
 document.onkeyup = function(event) {
     if(hangman.vErrors<14 && !hangman.isWordCompleted(hangman.vCorrectArray)){
         if(event.key==" "){
-                if(alert("Are you sure you want to restart the game?\r You will loose this one!.")){
+                if(confirm("Are you sure you want to restart the game?\r You will loose this one!.")){
                         hangman.resetGame("HangmanDraw", "CurrentWord", "PassedLetters", "WinScore", "LoseScore");
                 }
         }else {
